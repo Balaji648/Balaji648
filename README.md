@@ -8,10 +8,10 @@
   <a href="https://balaji-m.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-9B72FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank">
+  <a href="https://www.linkedin.com/in/balaji-m-6a02b2273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:<your.email>@gmail.com">
+  <a href="mailto:balaji648143@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/balaji-m" target="_blank">
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
@@ -52,7 +51,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" />
+  
 </p>
 
 ---
@@ -66,7 +65,11 @@
 </ul>
 
 ---
-
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 My Contribution Graph</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balaji-m/balaji-m/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 
 ---
