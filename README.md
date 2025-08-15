@@ -67,25 +67,14 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balaji-m&color=9B72FF" alt="Profile Views"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji-m&theme=radical&show_icons=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-m&theme=radical&layout=compact" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=balaji-m&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+
 
 ---
 
 <!-- SUPPORT -->
 <h2 align="center">☕ Support Me</h2>
 <p align="center">
-  <a href="https://ko-fi.com/<your-kofi-id>"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
+  <a href="balaji648143@gmail.com"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
 </p>
 
 ---
