@@ -74,7 +74,7 @@
 <!-- SUPPORT -->
 <h2 align="center">☕ Support Me</h2>
 <p align="center">
-  <a href="balaji648143@gmail.com"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
+  <a href="mailto:balaji648143@gmail.com"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="" /></a>
 </p>
 
 ---
