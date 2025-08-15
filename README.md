@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Data+Science+Undergrad;💻+Web+Developer+%26+UI%2FUX+Designer;✨+Learning%2C+Building%2C+Leveling+Up" alt="Typing SVG"/>
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=45&color=9B72FF&lines=Learning%2C+Building+%26+Leveling+Up;AI+%26+Data+Science+%7C+Web+Developer+%7C+UI%2FUX;Java%2C+Python%2C+HTML%2FCSS%2FJS%2C+React%2C+Angular%2C+Node" alt="Typing SVG"/>
+</h2>
 
 <!-- PROFILE LINKS -->
 <p align="center">
