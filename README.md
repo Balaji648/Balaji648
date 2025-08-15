@@ -65,14 +65,6 @@
 </ul>
 
 ---
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 My Contribution Graph</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/balaji-m/balaji-m/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-
----
 
 <!-- SUPPORT -->
 <h2 align="center">☕ Support Me</h2>
